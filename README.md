@@ -30,8 +30,7 @@ Here is the simulation circuit layout:
 ## 🎥 Live Simulation
 See the PIC16F84A bit-shifting execution sequence in real-time:
 
-![Simulation Animation](simulation.gif)
-
+(https://github.com/user-attachments/assets/4f7a5fa0-203a-4328-8abb-f702c903a023)
 
 ---
 
